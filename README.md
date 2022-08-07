@@ -1,0 +1,1 @@
+Projeto simples de implementação de uma calculadora usando linguagem Javascript
